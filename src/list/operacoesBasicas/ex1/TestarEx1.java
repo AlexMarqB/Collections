@@ -1,4 +1,4 @@
-package list.ex1;
+package list.operacoesBasicas.ex1;
 
 public class TestarEx1 {
     public static void main(String[] args) {
