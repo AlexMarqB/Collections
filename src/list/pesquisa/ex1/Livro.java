@@ -1,4 +1,4 @@
-package list.ex2;
+package list.pesquisa.ex1;
 
 public class Livro {
     private String titulo, autor;
